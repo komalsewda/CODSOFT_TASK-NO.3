@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+      .firstnav {
+        height: 50px;
+        background-color: rgba(49, 9, 96, 0.413);
+        align-items: center;
+      }
+      .firstdiv {
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .firstimg {
+        height: 34px;
+        margin-right: 80px;
+        margin-top: 10px;
+      }
+      .phone {
+        height: 20px;
+        margin-top: 10px;
+      }
+      .mail {
+        height: 20px;
+        margin-top: 10px;
+      }
+      .forthdiv {
+        margin-left: 80px;
+      }
+      .firstspan {
+        gap: 10px;
+        padding: 30px;
+        content: "|";
+      }
+
+      .secondnav {
+        height: 100px;
+        display: flex;
+        background-color: azure;
+      }
+      .second {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      }
+      .imgdiv {
+        width: 120px;
+        height: 80px;
+        margin-left: 150px;
+      }
+      .ankerdiv {
+        gap: 40px;
+        display: flex;
+        margin-left: 180px;
+      }
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      .background {
+        background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1pK_-hAv5eSamAEMjW0JC-UyxgeG7oaGxA&s");
+        background-position: right;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        
+      }
+      .capatial {
+        font-size: 40px;
+        width: 40%;
+        margin-top: 60px;
+        margin-left: 30px;
+      }
+      .small {
+        font-size: 20px;
+        width: 40%;
+        margin-top: 30px;
+        margin: 30px;
+      }
+      button {
+        height: 30px;
+        width: 120px;
+        margin: 0 80px;
+      }
+      hr {
+        height: 1px;
+        background-color: rgb(163, 161, 161);
+        width: 100%;
+      }
+      .para {
+        margin: 50px;
+        text-align: center;
+        font-size: 18px;
+      }
+      .eight {
+        display: flex;
+        height: 500px;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+        align-items: center;
+        justify-content: space-evenly;
+      }
+      .one {
+        height: 200px;
+        width: 300px;
+
+        background-color: azure;
+
+        align-items: center;
+      }
+      .nine {
+        height: 90px;
+        width: 90px;
+        border-radius: 100%;
+        display: flex;
+        padding: 20px 100px;
+      }
+      p {
+        padding-left: 60px;
+      }
+    
